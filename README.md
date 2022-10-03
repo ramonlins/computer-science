@@ -8,7 +8,7 @@ Data structures and algorithms:
   Code: 
   | Task           | Time required | Current Status | Finished  | 
   |----------------|---------------|----------------|-----------|
-  | Example 1      | < 20 Mins     | in progress    | - [] ok?  |
+  | Example 1      | < 20 Mins     | in progress    | - [x] ok?  |
   | Example 2      | < 20 Mins     | in progress    | - [] ok?  |
   | Example 3      | < 20 Mins     | in progress    | - [] ok?  |
   | Example 4      | < 20 Mins     | in progress    | - [] ok?  |
